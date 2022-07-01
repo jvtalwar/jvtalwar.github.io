@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vroengards on JVT</title>
+    <link>https://jvtalwar.github.io/vroengard/</link>
+    <description>Recent content in Vroengards on JVT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jun 2022 01:13:13 +0000</lastBuildDate><atom:link href="https://jvtalwar.github.io/vroengard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unbelievable Uber: The Marine</title>
+      <link>https://jvtalwar.github.io/vroengard/themarine/</link>
+      <pubDate>Thu, 30 Jun 2022 01:13:13 +0000</pubDate>
+      
+      <guid>https://jvtalwar.github.io/vroengard/themarine/</guid>
+      <description>&lt;p&gt;&lt;em&gt;We&amp;rsquo;re definitely not in Kansas anymore&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Immunogenomics: MHC-I and the Autoimmune-Cancer Interplay</title>
+      <link>https://jvtalwar.github.io/vroengard/ai-mhc-ightythen/</link>
+      <pubDate>Sat, 25 Jun 2022 17:15:21 +0000</pubDate>
+      
+      <guid>https://jvtalwar.github.io/vroengard/ai-mhc-ightythen/</guid>
+      <description>&lt;p&gt;&lt;em&gt;AI MHC-Ighty Then!&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
